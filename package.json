@@ -4,11 +4,14 @@
   "description": "Can I spin up a simple node project with ES6 and jest?",
   "main": "index.js",
   "dependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "babel-jest": "^26.1.0",
     "jest": "^26.1.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
