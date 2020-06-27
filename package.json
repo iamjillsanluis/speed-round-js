@@ -1,0 +1,23 @@
+{
+  "name": "speed-round",
+  "version": "0.1.0",
+  "description": "Can I spin up a simple node project with ES6 and jest?",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamjillsanluis/speed-round-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamjillsanluis/speed-round-js/issues"
+  },
+  "homepage": "https://github.com/iamjillsanluis/speed-round-js#readme"
+}
